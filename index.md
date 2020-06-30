@@ -1,2 +1,7 @@
 # Mark Hamill - Luke Skywalker
 Luke Skywalker (* 19 VSY auf Polis Massa, † 34 NSY auf Ahch-To) war der Sohn von Senatorin Padmé Amidala und Anakin Skywalker. Er war der Zwillingsbruder von Prinzessin Leia Organa. Beide wurden nach der Geburt getrennt aufgezogen.
+## Charakter Eigenschaften
+* freundlich
+* sympatisch
+* ergeizig
+* alle ausgedacht
