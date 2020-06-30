@@ -5,3 +5,6 @@ Luke Skywalker (* 19 VSY auf Polis Massa, † 34 NSY auf Ahch-To) war der Sohn v
 * sympatisch
 * ergeizig
 * alle ausgedacht
+Ein ausgedachtes Zitat von ihm:
+> Ich war schon immer mehr an der Zukunft interessiert
+> als an der Vergangenheit
